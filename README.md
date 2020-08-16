@@ -1,4 +1,4 @@
-# haproxy SSL renewal
+# HAProxy SSL renewal
 
 Add following line into your haproxy.cfg
 
